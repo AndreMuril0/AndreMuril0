@@ -4,10 +4,7 @@
 <h3>Desenvolvedor front-end</h3>
 
 <div>
-  <a href="https://github.com/AndreMuril0"> 
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=AndreMuril0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuril0&layout=compact&langs_count=16&theme=dark"/>
+ 
 </div>
 
 
