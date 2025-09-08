@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Andre+Murilo+Rodrigues+de+França!;" />
 </h1>
-<h3>Desenvolvedor java-end</h3>
+<h3>Desenvolvedor front-end</h3>
 
 <div>
   <a href="https://github.com/AndreMuril0"> 
